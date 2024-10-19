@@ -61,3 +61,8 @@ Se realizaron 3 ensayos:
 </p>
 
 Notbook y documentos del Desafío: [Desafío 5](./Desafío_5/)
+
+<h2>Contacto</h2>
+
+
+Por cualquier consulta o comentario, pueden contactarme a [sofia.speri@gmail.com](mailto:sofia.speri@gmail.com)
